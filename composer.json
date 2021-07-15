@@ -1,0 +1,21 @@
+{
+    "name": "thor-juhasz/psalm-issue-1",
+    "type": "library",
+    "require-dev": {
+        "vimeo/psalm": "^4.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ThorJuhasz\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thor Juhasz",
+            "email": "thor@juhasz.pro"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
