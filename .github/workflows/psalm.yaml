@@ -1,6 +1,6 @@
 name: Psalm Static Analysis
 
-on: pull_request
+on: push
 
 jobs:
     static-analysis:
